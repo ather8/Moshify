@@ -802,7 +802,7 @@ a {
 }
 
 @media screen and (min-width: 768px) {
-    .feature:nth-of-type(even) .feature__container {
+    .feature:nth-of-type(even) .feature__content {
         order: 2;
     }
 }
