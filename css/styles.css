@@ -481,7 +481,7 @@ a {
     }
 
     .quote__author {
-        font-size: 2.4 rem;
+        font-size: 2.4rem;
     }
 
     .quote__organization {
@@ -682,7 +682,7 @@ a {
 
 .nav__item > a {
     color: #d2d0db;
-    color: 0.3s;
+    transition: color 0.3s;
 }
 
 .nav__item > a:hover {
